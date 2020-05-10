@@ -1,0 +1,21 @@
+Commonly used commands in git:
+
+How do we see how things are going in git:
+
+git status
+
+How do we stage all our files at once:
+
+git add .
+
+How do we bring all of the staged files into the repo:
+
+git commit -m "Add files to this branch of repo"
+
+How do we send our files to the server:
+
+git push
+
+How do we bring a repo down to our local machine:
+
+git clone https://github.com/stef2nn/portal-830
